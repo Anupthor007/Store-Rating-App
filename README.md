@@ -1,6 +1,6 @@
 # Store Rating System
 
-A full-stack web app where users can find stores, rate them, and store owners can see their ratings.
+A web app where users can find stores, rate them, and store owners can see their ratings.
 
 ## What it does
 
@@ -108,3 +108,4 @@ GET /api/users/dashboard-stats - Admin stats
 ---
 
 That's it! Pretty straightforward once you get it running.
+
