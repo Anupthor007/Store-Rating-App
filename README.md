@@ -32,7 +32,7 @@ A web app where users can find stores, rate them, and store owners can see their
    - Create database called `store_rating_db`
    - Add your database info to `backend/.env`:
    ```env
-   DATABASE_URL="postgresql://postgres:yourpassword@localhost:5432/store_rating_db"
+   DATABASE_URL="postgresql://postgres:Anup123@localhost:5432/store_rating_db"
    JWT_SECRET="any-random-secret-key"
    PORT=5000
    ```
@@ -99,13 +99,7 @@ GET /api/users/dashboard-stats - Admin stats
 - Password: 8-16 chars, needs uppercase + special character
 - Address: max 400 characters
 
-## Troubleshooting
-
-**Can't connect to database?** Check PostgreSQL is running and your .env file has the right password.
-
-**npm not working?** Restart your terminal after installing Node.js.
 
 ---
 
-That's it! Pretty straightforward once you get it running.
-
+##The project is made for the Assignment round for the Position of MERN Stack Developer Intern.
